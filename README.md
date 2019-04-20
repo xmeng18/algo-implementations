@@ -8,3 +8,5 @@ If you are in China, please contact me with the second email address.
 
 I implemented several algorithms with Python and R, 
 some of them are about financial engineering and some of them are about computer science
+
+Recently, I am implementing the algothrims about machine learning introduced by Andrew Ng
